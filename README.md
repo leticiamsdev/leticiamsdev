@@ -11,7 +11,7 @@ Me chamo Leticia Mariana da Silva Ferreira, tenho 20 anos e sou natural do Espir
 
 
 
-/>
+
 <img 
     align="left" 
     alt="Git" 
