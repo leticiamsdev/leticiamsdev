@@ -5,8 +5,6 @@
 
 
 
-### 🤖 Linguagens e Tecnologias
-
 
 
 
